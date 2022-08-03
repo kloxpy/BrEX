@@ -1,0 +1,5 @@
+Open the scripts folder near your BrEX.exe file and create a new
+File called (Your script).txt then hit refresh and a new script will
+be on the right side of the injector like where it says OpenMe.txt
+
+Enjoy the injector!
